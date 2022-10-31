@@ -1,0 +1,85 @@
+body {
+  background-color: black;
+  color: aliceblue;
+  font-size: 21px;
+  font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+}
+
+p {
+  color: rgb(253, 202, 34);
+}
+
+h1 {
+  font-size: 70px;
+  color: pink;
+}
+
+div {
+  background-color: brown;
+  width: 650px;
+}
+
+.top-section {
+  background-color: aqua;
+}
+
+.bottom-section {
+  background-image: url(../img/horreur.jpg);
+
+  background-size: cover;
+}
+
+.middle-section {
+  background-color: blanchedalmond;
+}
+
+.intro {
+    font-size: 30px;
+}
+
+.highlight {
+    background: yellow
+}
+
+.accent-color {
+    color: red;
+}
+
+/* dinguerie ya un commentaire la aussi*/
+
+.box {
+  background: pink;
+  width: 300px;
+
+  margin: 50px;
+  padding: 50px;
+
+  border-width: 12px;
+  border-color: red;
+  border-style: dashed;
+}
+
+.text-section {
+  font-family: Optima,Segoe,Segoe UI,Candara,Calibri,Arial,sans-serif;
+  line-height: 10px;
+  font-style: italic;
+  font-weight: 900;
+  text-align: center;
+  text-decoration: line-through;
+  text-transform: uppercase;
+}
+
+a {
+  color: aqua;
+}
+
+a:visited {
+  color: darkgray;
+  font-size: xx-large;
+}
+
+a:hover {
+  color: blueviolet;
+  font-size: 50px;
+}
+
